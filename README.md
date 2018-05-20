@@ -7,7 +7,7 @@
 [![Code Climate](https://codeclimate.com/github/andela-iadeniyi/Potato-ORM/badges/gpa.svg)](https://codeclimate.com/github/andela-iadeniyi/Potato-ORM)
 [![Test Coverage](https://codeclimate.com/github/andela-iadeniyi/Potato-ORM/badges/coverage.svg)](https://codeclimate.com/github/andela-iadeniyi/Potato-ORM/coverage)
 
-Potato-ORM is a package that manages the CRUD operation of database. Potato-ORM currently supports `MYSQL`, `POSTGRES` and `SQLITE` Database.
+Potato-ORM is a package that manages the CRUD operation of database. Potato-ORM currently supports `MYSQL`, `POSTGRES` and `SQLITE` Database.[Potato-ORM](http://andela-iadeniyi.github.io/Potato-ORM)
 
 ## Installation
 
